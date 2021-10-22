@@ -1,0 +1,109 @@
+Quality assurance:
+
+It is related to process oriented activites.It prevents the defects in the process to make a software application.
+
+Quality control:
+
+It is related to product related activites. It runs the program or code to identify the defects in the software application.
+
+verification in software:
+
+it is process to verify whatever we build according to the requirements we have and to check whether we have build correctly or not
+here Inspections,walkthorughs, reviews will happen.
+
+validation is the process, whether we are building right path or not.validate the software application whether we have build right or not.
+This is testing process.
+
+static testing:
+It involves in review the documents to identify the defects at early stage of SDLC.
+
+Dynamic testing:
+It is process that executes the program or code and validate the output with the expected output.
+
+White box testing
+It is also called as clearbox or glassbox or structural testing.This testing happens at the unit level.
+It is based on the internal code structure. Its internal perspective of the system and programming skills are used to design the test cases.
+
+Black box testing
+black box is the testing which testers evaluate the functionality of the software without looking the internal structure of the code. this applied on the all levels of testing like unit testing, system, acceptance testing.
+
+Grey box testing
+it is the combination of both black box and white box testing the tester who works on this type of testing needs to have access to design documents.this helps to create better test casses.
+
+positive and negative testing
+
+postiive testing: It determines what the system supposed to do. it helps to check whether the application is justifying the requirements or not.
+
+negative testing
+it determines what system should not do and it helps to determine the defects in the software application
+
+what is test strategy
+it is high level document and usually developed by the project manager. it is the document says that how we go for testing and achieve the goals. it is based on bussiness requirement specification document.
+documents like test plan are prepared keeping this document as base.
+
+testplan and contents available in test plan
+test plan document is a document which contains the plan for all testing activties to be done to deliver a quality product.test plan document is derived from the product description, srs,or use case documents for all future activites of the project.It is usually prepared by the test lead or test manager.
+It is udally prepared by the test lead or test manager.
+
+test suite
+test suite is a collection of test cases. the test cases are which intended to test an application
+
+test scenario
+it gives the idea what have to test. test scenario is high level test case.
+
+what is test case?
+test cases are the set of postive and negative excutable steps of a test scenario which set of pre-conditions, test data,expected result,post-conditions and actual results.
+
+test bed
+an environment configured for testing. Test bed consists of hardware, software,network configuration, an application under test, other related software.
+
+test enivronment
+test environment is the combination of software and hardware on which testing team perform testing.
+
+Test data
+it is the data that is used by testers to run the test cases whilst running the test cases testers need to enter some input data. to do so testers prepare test data
+it can be prepared by manually or using tools
+
+test harness
+test harness is the collection of software and test data configured to test a program unit by running it under varying conditions which involves monitoring the output with expected output.
+
+test closure
+test closure is the note prepared before test team formally completes the testing process.This notes contains the total no. of test cases, total no.of test cases executed, total no of defects found, total no of defects fixed, total no of bug not fixed total no of bugs rejected etc.
+
+list out deliverables
+1. test strategy
+2. test plan
+3. effort estimation report
+4. test scenarios
+5. test cases/scripts
+6. test data
+7. requirement traceability mtrix
+8. defect report/bug report
+9. test execution report
+10. graph and metrics
+11. test summary report
+12. test incident report
+13. test closure report
+14. release note
+15. installation/configuration guide
+16. user guide
+17. test status report
+18. weekly statys report
+
+what is unit testing
+it is also called as module testing or component testing it is done to check whether module of the soure code is working properly or not it is done by developer in devolper's environment
+
+integration testing
+it is the process of testing between interface between two software units it is done in three ways
+1. big band approach
+2. topdown approach
+3. bottomup approach
+
+System testing
+
+
+
+
+
+
+
